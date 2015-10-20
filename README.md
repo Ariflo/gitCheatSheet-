@@ -1,6 +1,6 @@
 ## Cheat Sheet
 
-Whenever you're confused about git, come rea this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
+Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
 `$ git branch --help` or `$git log --help`
 
