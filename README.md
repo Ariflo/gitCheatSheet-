@@ -22,15 +22,15 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - Stage all changes in <filename> for the next commit
 
-`$ git add -A` - __Fill Me Out__
+`$ git add -A` - Stage all files
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - Record changes to the repository with the message, <commit message>
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Create a new branch called <branch name>
 
 `$ git branch` - __Fill Me Out__
 
